@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ananya Vats.
-- 👀 I’m interested in Coading.
-- 🌱 I’m currently learning Python Language.
+- 👀 I’m interested in Coding.
+- 🌱 I’m interested in languages like  Python , Java , C++ .
+- I have good command on Machine learning and Deep Learning 
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 For Reaching Me Contact- 9758951653
 
